@@ -1,0 +1,60 @@
+.wrap {
+    width: 100vw;
+    height: 150vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(Homeha.png);
+    color: #FFFACD;
+}
+
+@font-face
+{
+	font-family: Louisa;
+	src: url("LouisaCP.otf");
+}
+
+@font-face{
+font-family: rumble;
+src: url("Rumble Brave.otf")
+
+}
+
+@font-face 
+{
+	font-family: cinzel;
+	src:url("Cinzel-Bold.otf")
+
+}
+
+.titulo1
+{
+	font-family: rumble;
+	font-size: 100px;
+}
+
+.titulo2
+{
+	font-family: Louisa;
+	font-size: 90px;
+    position: relative;
+    left: 50px;
+
+}
+
+.titulo3
+{
+	font-family: cinzel;
+	font-size: 30px;
+	color: white;
+	position: relative;
+	right: 25px;
+}
+
+.titulo4
+{
+	position: relative;
+	left: 50px;
+}
+
+
